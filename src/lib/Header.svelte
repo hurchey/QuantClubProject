@@ -98,6 +98,7 @@ section {
             <a href="/signup">Signup</a>
             <a href="/portfolio">Portfolio</a>
             <a href="/team">Team</a>
+            <a href="/about">About</a>
         </div>
     </div>
     <link href="https://fonts.googleapis.com/css2?family=Chivo:wght@600&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
